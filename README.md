@@ -18,18 +18,23 @@ The final step in this project involves creating a news-based stock portfolio us
 
 The project identifies the 20-30 most commonly reported stocks and allocates the percentage of investment for each stock in a proportional manner. This approach ensures that stocks with higher mentions receive a larger portion of the portfolio, reflecting the perceived confidence and recommendation associated with those stocks.
 
-#Skills Showcased
+# Skills Showcased
 This pioneering endeavor exhibits a medley of skills that showcase the project's multidimensional nature:
 
-Data Collection and Web Scraping: The project seamlessly amalgamates a comprehensive stock list and recent news articles, demonstrating adeptness in web scraping techniques.
+## Data Collection and Web Scraping: 
+The project seamlessly amalgamates a comprehensive stock list and recent news articles, demonstrating adeptness in web scraping techniques.
 
-Data Cleaning and Processing: The post-processing phase underscores the mastery of data curation, where noise is eliminated and outliers are tamed through statistical prowess.
+## Data Cleaning and Processing: 
+The post-processing phase underscores the mastery of data curation, where noise is eliminated and outliers are tamed through statistical prowess.
 
-Data Analysis and Visualization: The crux of the project's value lies in extracting insights from the data. Skills in data analysis and visualization lay the groundwork for constructing a meaningful portfolio.
+## Data Analysis and Visualization: 
+The crux of the project's value lies in extracting insights from the data. Skills in data analysis and visualization lay the groundwork for constructing a meaningful portfolio.
 
-Portfolio Construction and Investment Logic: Crafting a portfolio isn't a random exercise. The project elegantly showcases an understanding of investment principles by tying portfolio weightage to sentiment frequency.
+## Portfolio Construction and Investment Logic: 
+Crafting a portfolio isn't a random exercise. The project elegantly showcases an understanding of investment principles by tying portfolio weightage to sentiment frequency.
 
-Communication and Documentation: The project's ReadMe isn't just an afterthought; it's a testament to the ability to communicate complex concepts to a broader audience, while providing the necessary context and warnings.
+## Communication and Documentation: 
+The project's ReadMe isn't just an afterthought; it's a testament to the ability to communicate complex concepts to a broader audience, while providing the necessary context and warnings.
 
 # Conclusion
 The creation of this news-based stock portfolio serves as a valuable tool for assessing the reliability of financial advisers and the credibility of online investment information sources. By leveraging data scraping techniques and statistical analysis, this project enables investors to make more informed decisions based on real-time sentiment and expert recommendations.
