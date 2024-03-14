@@ -1,6 +1,7 @@
 # News-Based Stock Portfolio
 In today's fast-paced digital era, where information is abundant and readily accessible, it can be challenging to discern the reliability of financial advice provided online. The purpose of this project is to assess the credibility of financial advisers and determine the most reliable sources of information in the realm of stock investments. By leveraging the power of data and technology, this project aims to provide insights into the trustworthiness of various sources and aid in making informed investment decisions.
 
+## CHECK OUT THE MEDIUM ARTICLE: [HERE](https://medium.com/@shahsatya25/how-to-automate-news-reading-with-ai-to-build-a-winning-portfolio-8dc4884b2dff)
 # Project Overview
 The project begins by collecting a comprehensive list of publicly listed stocks on the New York stock exchanges. This step ensures that the analysis covers a wide range of companies and allows for a more accurate assessment of the reliability of financial advice related to these stocks.
 
